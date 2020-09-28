@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Let's mess with the profile picture</h1>
+<h1>👈 Click here to mess with the profile picture</h1>
